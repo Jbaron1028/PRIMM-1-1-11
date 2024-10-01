@@ -19,10 +19,10 @@ Run the program.
 ## Investigate
 1. Add a single-line comment above each major chunk of code to explain what is happening.
 2. Read about the concept of [string concatenation](https://www.w3schools.com/python/gloss_python_string_concatenation.asp). Explain in your own words below what it is and how it relates to this program.
-    > 
+    > it adds two strings together and this relates to our program because inputs are always strings.
 
 3. Read about the [`int()`](https://www.w3schools.com/python/ref_func_int.asp) and [`float()`](https://www.w3schools.com/python/ref_func_float.asp) functions in Python. What do they do? How can they help this program?
-    > your answer
+    > 
 
 ## Modify
 1. Change the program using what you learned so that it adds two numbers you enter.
@@ -47,7 +47,7 @@ Run the program.
 |   `-`    | substraction |
 |   `*`    | multiplication |
 |   `/`    | division |
-|   `//`    | dont know |
-|   `**`    | dont know |
-|   `%`    | percentage |
+|   `//`    |division and floor |
+|   `**`    |  first number to the power of second number |
+|   `%`    | whats left after division for example 10/3 so 3 goes into 10 3 times and 1 is the leftover so 1 is the answer |
 
